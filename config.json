@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersetch",
+        "uuid": 19255145,
+        "checksum": "qlhol"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
